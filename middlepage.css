@@ -1,0 +1,172 @@
+*{
+    font-family: 'Inter', sans-serif;
+    max-width: 700px;
+    margin-left:auto;
+    margin-right:auto;
+    font-weight:bold;
+}
+
+
+.ProfileImage{
+    display:flex;
+    margin-left: 0px;
+    color:rgb(120, 167, 169);
+}
+
+.ProfileImage button{
+    background-color: rgb(43, 141, 107);
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border-color: transparent;
+    margin-top:30px;
+    margin-right: 10px;
+    margin-left: 25px;
+
+}
+
+.ProfileImage .intro{
+    line-height:10px;
+    margin-top:20px;
+    margin-left: -1px;
+
+
+}
+
+h3{
+color:black;
+}
+
+.details{
+    margin-left: 40px;
+    margin-top: 15px;
+    color:rgb(120, 167, 169);
+}
+
+span{
+    color:rgb(59, 130, 119)
+}
+
+.details p{
+    display: inline-block;
+    padding-right: 90px;
+}
+
+.details1{
+    margin-left: 40px;
+}
+.details1 p{
+    display: inline-block;
+    padding-right: 80px;
+    padding-top:-10px;
+}
+
+.middlepage{
+    margin-top:30px;
+    margin-left: 40px;
+
+}
+
+.middlepage button{
+    background-color: rgb(217, 221, 221);
+    border-radius: 20px;
+    border-color: transparent;
+    margin-right:10px;
+    padding-left:8px;
+    padding-right:8px;
+    text-decoration: bold;
+}
+
+.third {
+    display: flex;
+    margin-left:-80px;
+
+}
+
+.fourth {
+    display: flex;
+    margin-left:-100px;
+}
+
+.Fifth {
+    margin-left:40px;
+    margin-top:30px;
+    text-decoration: bold;
+}
+
+.Fifth .test{
+    display: flex;
+    margin-left:-150px;
+    justify-content: space-between;
+}
+
+.Fifth .test1{
+    display: flex;
+    margin-left:-150px;
+}
+
+span.a{
+color: gray;
+}
+.Fifth{
+    display: inline-block;
+}
+.Fifth .test2{
+    display: flex;
+    margin-left:-25px;
+}
+
+.Sixth .Profile{
+        display:flex;
+        margin-left: 0px;
+        color:rgb(120, 167, 169);
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+.Sixth .Profile button{
+        background-color: rgb(43, 141, 107);
+        width: 80px;
+        height: 80px;
+        border-radius: 10px;
+        border-color: transparent;
+        margin-right: 10px;
+        max-width: 250px;
+    
+    }
+.Sixth .Profile .Profile1{
+    display: flex;
+    margin:5px;
+    margin-bottom:10px;
+}
+
+.Sixth .Profile .Profile1 .intro{
+line-height:18px;
+margin-top: -10px;
+}
+.Sixth .Profile .Profile2 .intro{
+    line-height:18px;
+    margin-top: -10px;
+    }
+    .Sixth .Profile .Profile3 .intro{
+        line-height:18px;
+        margin-top: -10px;
+        }
+.Sixth .Profile .Profile2{
+    display: flex;
+}
+
+.Sixth .Profile .Profile3{
+    display: flex;
+}
+
+
+.Seventh{
+    color:gray;
+    font-weight:bold;
+    line-height:25px;
+}
+
+span.b{
+    color:black;
+}
